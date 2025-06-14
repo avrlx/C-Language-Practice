@@ -21,21 +21,6 @@ This repository contains my practice programs, mini-projects, and notes as I lea
 /projects/ — Mini-projects  
 /notes/ — Notes and explanations  
 
-## How to Compile and Run
-
-Make sure you have a C compiler (e.g. gcc).
-
-To compile:
-gcc path/to/your_program.c -o your_program
-
-To run:
-
-./your_program
-
-Example:
-
-gcc basics/hello_world.c -o hello ./hello
-
 ## Requirements
 
 - GCC compiler
